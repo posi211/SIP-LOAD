@@ -1,0 +1,9 @@
+sipload
+Copyright 2026 sipload contributors
+Licensed under the Apache License, Version 2.0.
+
+Audio in audio/: spoken test prompts and readback clips are synthesized speech.
+Voice files voice-slt/awb/rms/kal16 are derived from the CMU Arctic voices as
+shipped with Flite (BSD-style / freely redistributable licenses, Carnegie Mellon
+University). Maintainers: confirm the origin and license of test-speech.wav,
+echo-test.wav and test-tones.wav before release.
