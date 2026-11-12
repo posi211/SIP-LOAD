@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 ABSi Corp
 """sipload - SIP / RTP call load and fault tester for SBCs such as the Yeti Switch.
 
 Two roles:

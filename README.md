@@ -49,6 +49,9 @@ The number dialed tells the carrier what to do.
 | `9992` | echo | `9998` | 404 Not Found |
 | `9993` | delayed answer | `9999` | 503 Service Unavailable |
 
+## Using it with a Yeti Switch
+Step-by-step gateway, dialpeer and routing setup: [docs/yeti-setup.md](docs/yeti-setup.md).
+
 ## Reports and metrics
 Reports land in `sipload-reports/` next to the script (change with `--out`). The dashboard lists them under **Saved reports**.
 

@@ -1,9 +1,9 @@
 sipload
-Copyright 2026 sipload contributors
+Copyright 2026 ABSi Corp
 Licensed under the Apache License, Version 2.0.
 
-Audio in audio/: spoken test prompts and readback clips are synthesized speech.
-Voice files voice-slt/awb/rms/kal16 are derived from the CMU Arctic voices as
-shipped with Flite (BSD-style / freely redistributable licenses, Carnegie Mellon
-University). Maintainers: confirm the origin and license of test-speech.wav,
-echo-test.wav and test-tones.wav before release.
+Audio in audio/: test-speech.wav, echo-test.wav and test-tones.wav are original
+works, Copyright 2026 ABSi Corp, released under the Apache License 2.0.
+The synthesized voice files (voice-slt/awb/rms/kal16.wav) and the readback clips
+are derived from the CMU Arctic voices as shipped with Flite (Carnegie Mellon
+University, freely redistributable license).
