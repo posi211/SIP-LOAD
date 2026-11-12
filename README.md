@@ -60,4 +60,4 @@ Only test systems you own or are authorised to test. The dashboard binds to loop
 (`python3 sipload.py user --help`) and put it behind TLS. See [SECURITY.md](SECURITY.md).
 
 ## Contributing and license
-See [CONTRIBUTING.md](CONTRIBUTING.md). Licensed under [Apache-2.0](LICENSE); audio attribution in [NOTICE](NOTICE).
+Copyright 2026 ABSi Corp. See [CONTRIBUTING.md](CONTRIBUTING.md). Licensed under [Apache-2.0](LICENSE); audio attribution in [NOTICE](NOTICE).
